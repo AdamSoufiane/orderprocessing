@@ -1,0 +1,1 @@
+The OrderProcessing shred enables users to place orders through a REST API, which are then persisted to a PostgreSQL database. The shred follows Hexagonal Architecture principles with a clear separation of concerns across the Domain, Application, and Infrastructure layers. The Domain layer contains 
